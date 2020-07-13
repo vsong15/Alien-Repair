@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 0ee8517c93a6c344eb5a3d1896b732e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2367157568323978549
+    second: background_fish_0
+  - first:
+      213: 6868934251710235900
+    second: background_fish_1
+  - first:
+      213: -2039406790507719853
+    second: background_fish_2
+  - first:
+      213: -3618083835588128015
+    second: background_fish_3
+  - first:
+      213: 516738444238668717
+    second: background_fish_4
+  - first:
+      213: 5315601118707313250
+    second: background_fish_5
+  - first:
+      213: -6400265885045435966
+    second: background_fish_0
+  - first:
+      213: -6102107976622564622
+    second: background_fish_1
+  - first:
+      213: -3877050905047897979
+    second: background_fish_2
+  - first:
+      213: 7390990556273248004
+    second: background_fish_3
+  - first:
+      213: 5641927046805046118
+    second: background_fish_4
+  - first:
+      213: -4284169724933910391
+    second: background_fish_5
+  - first:
+      213: 751760383845410212
+    second: background_fish_6
+  - first:
+      213: -19198908412257062
+    second: background_fish_7
+  - first:
+      213: 1432786792036297055
+    second: background_fish_8
+  - first:
+      213: -2152384919109584555
+    second: background_fish_9
+  - first:
+      213: -1233865941423252698
+    second: background_fish_10
+  - first:
+      213: -8757543732521246791
+    second: background_fish_11
+  - first:
+      213: 3707659413180790941
+    second: background_fish_12
+  - first:
+      213: 5912376256819733456
+    second: background_fish_13
+  - first:
+      213: 8358116472690810320
+    second: background_fish_14
+  - first:
+      213: -5767825421042988047
+    second: background_fish_15
+  - first:
+      213: -6016464448962405908
+    second: background_fish_16
+  - first:
+      213: 2809155557444338854
+    second: background_fish_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_fish_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d0dd6610bd27a0800000000000000
+      internalID: -6400265885045435966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa95582025f05ba0800000000000000
+      internalID: -6102107976622564622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588638c4eb2f13ac0800000000000000
+      internalID: -3877050905047897979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4070fe470c2129660800000000000000
+      internalID: 7390990556273248004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663cb71c1c62c4e40800000000000000
+      internalID: 5641927046805046118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d4db65529b84c0800000000000000
+      internalID: -4284169724933910391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5215b061ace6a00800000000000000
+      internalID: 751760383845410212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc130cc1bacbbff0800000000000000
+      internalID: -19198908412257062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 17
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e1320ff742e310800000000000000
+      internalID: 1432786792036297055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 7
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b094e1513122e0800000000000000
+      internalID: -2152384919109584555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 16
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b930da67d60eee0800000000000000
+      internalID: -1233865941423252698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5f1eef54f67680800000000000000
+      internalID: -8757543732521246791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 13
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9836ce9790447330800000000000000
+      internalID: 3707659413180790941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 11
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a13661eafc0250800000000000000
+      internalID: 5912376256819733456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd931216aefdf370800000000000000
+      internalID: 8358116472690810320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc34cb65194ffa0800000000000000
+      internalID: -5767825421042988047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce954d3d579318ca0800000000000000
+      internalID: -6016464448962405908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_fish_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c84098102cf620800000000000000
+      internalID: 2809155557444338854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

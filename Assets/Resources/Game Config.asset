@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91dd74a90c1421443b5d49a0b3c8ce3e, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  walkSpeed: 12
+  climbSpeed: 10
+  directionInputMinThreshold: 0.1
+  gravity: 30
+  deadGravity: 10
+  buoyancy: -0.1
+  descendTimeInSeconds: 300
+  o2Seconds: 5
+  flashIntervalSeconds: 0.1
+  secondsToShowPopupTips: 30
+  panToShipSeconds: 10
+  repairHitsNeeded: 3
+  percentageForSink: 0.1
+  maxSinkPercentPerSecond: 0.01
+  minLeakEventSeconds: 8
+  maxLeakEventSeconds: 18
+  depthLeakEventMultiplier: 1
+  perPlayerPenaltySeconds: 4.5
+  secondsToWaitBeforeFinalScreen: 5
+  secondsToWaitOnFinalScreen: 10
